@@ -129,7 +129,7 @@ A).
      >Mergesort is well-suited for sorting linked lists since it doesn't require random access to elements.
      >it has high space complextiy while compare to other sorting algoritham .
                     
-                    ********************
+            
 
 
 

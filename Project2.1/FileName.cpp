@@ -1,4 +1,5 @@
 #include <iostream>
+// iostream stands for input output statments 
 using namespace std;
 
 int main()
@@ -17,7 +18,8 @@ int main()
         {
             // If the current element is greater than the next element, swap them
             if (arr[j] > arr[j + 1])
-            {
+            {   
+                // here this indicates swaping 
                 int temp = arr[j];
                 arr[j] = arr[j + 1];
                 arr[j + 1] = temp;

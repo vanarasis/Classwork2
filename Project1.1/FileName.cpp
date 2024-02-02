@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     // Initialize an array of integers
+    // array is an homogenious elements
     int arr[] = { 4, 2, 7, 3, 0 };
     // Calculate the number of elements in the array
     int n = sizeof(arr) / sizeof(arr[0]);

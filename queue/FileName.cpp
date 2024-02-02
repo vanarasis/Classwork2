@@ -1,5 +1,7 @@
 #include <iostream>
+// iostream stands for input output stream 
 #include <queue>
+// its a queue program 
 
 using namespace std;
 
@@ -46,6 +48,6 @@ int main()
     gquiz.pop();
     // Display the updated queue after removing an element
     showq(gquiz);
-
+    // return 0 
     return 0;
 }

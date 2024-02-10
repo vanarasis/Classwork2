@@ -1,5 +1,7 @@
 #include <iostream>
+// iostream stands for input output stream 
 #include <stack>
+// stack program 
 using namespace std;
 
 int main()
@@ -29,6 +31,6 @@ int main()
 		cout << stack.top() << " "; // Print the top element of the stack
 		stack.pop(); // Pop the top element from the stack
 	}
-
+	// return 0
 	return 0;
 }
